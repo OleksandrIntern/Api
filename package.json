@@ -1,0 +1,19 @@
+{
+  "name": "api_v.3.0.",
+  "version": "1.0.0",
+  "description": "",
+  "main": " app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "knex": "^2.0.0",
+    "nodemon": "^2.0.16",
+    "pg": "^8.7.3",
+    "tasks": "^0.0.3"
+  }
+}
